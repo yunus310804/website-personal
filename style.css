@@ -1,0 +1,24 @@
+body{
+    background-image: url('gunung.jpeg');
+    background-size: cover;
+}
+
+.jumbotron{
+    padding-top: 7rem;
+}
+
+#about {
+    padding-top: 14rem;
+}
+
+#galery {
+    padding-top: 10rem;
+}
+
+#contact {
+    padding-top: 10rem;
+}
+
+#follow {
+    padding-top: 7rem;
+}
